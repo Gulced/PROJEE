@@ -1,0 +1,3 @@
+/Users/gulcekoc/CLionProjects/PROJEE/cmake-build-debug/CMakeFiles/PROJEE.dir
+/Users/gulcekoc/CLionProjects/PROJEE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gulcekoc/CLionProjects/PROJEE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
