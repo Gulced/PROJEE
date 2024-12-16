@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+33^3333
 #define MAX_LINE_LENGTH 100
 
 // Kota aşım ücretini ve kota sınırlarını tanımlıyoruz
